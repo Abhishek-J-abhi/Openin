@@ -1,4 +1,5 @@
 # Openin
+This code is for upscaling videos using video2x. It first mounts the Google Drive, installs the necessary dependencies, and downloads the video2x source code. Then, it downloads and extracts the precompiled binaries for realsr-ncnn-vulkan, srmd-ncnn-vulkan, waifu2x-ncnn-vulkan, and PyYAML. Finally, it creates directories on Google Drive for storing input and output videos, displays the help information for the video2x.py script, and upscales a video from 270p to 1080p.
 
 
 # Input Video:
